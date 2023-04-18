@@ -1,0 +1,22 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+h1,h2{
+    font-weight: normal;
+}
+#red{
+    color:red;
+}
+#blue{
+    color:blue;
+}
+#orange{
+    color:orange;
+}
+#gree{
+    color:green;
+}
+#yellow{
+    color:yellow;
+}
